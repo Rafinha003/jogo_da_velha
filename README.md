@@ -11,7 +11,7 @@ Este projeto implementa uma Inteligência Artificial que joga **Jogo da Velha** 
 
 python runner.py
 
-🛠️ Funcionalidades Implementadas
+# 🛠️ Funcionalidades Implementadas
 ✅ initial_state()
 Retorna o tabuleiro inicial vazio.
 
@@ -43,7 +43,7 @@ Retorna a pontuação:
 
 Usa o algoritmo Minimax para retornar a jogada ideal! ♟️
 
-🧠 Sobre o Algoritmo Minimax
+# 🧠 Sobre o Algoritmo Minimax
 O algoritmo Minimax simula todas as possíveis jogadas até o fim do jogo e escolhe o caminho com melhor resultado para o jogador atual. Idealmente:
 
 X sempre tenta maximizar o placar.
